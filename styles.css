@@ -24,7 +24,7 @@ main{
 }
 
 .about{
-    width: 300px;
+    width: 250px;
     border: 1px solid #bbb;
     text-align: left;
     padding: 20px;
@@ -33,7 +33,7 @@ main{
 }
 
 img{
-    width: 100%;
+    width: auto;
     height: 250px;
     margin-bottom: 5px;
     border-radius: 5px;
